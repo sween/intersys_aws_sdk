@@ -201,7 +201,7 @@ header li:last-child a {
 header ul a {
   line-height:1;
   font-size:11px;
-  color:#999;
+  color:#fff;
   display:block;
   text-align:center;
   padding-top:6px;
@@ -209,7 +209,7 @@ header ul a {
 }
 
 header ul a:hover {
-  color:#999;
+  color:#000;
 }
 
 header ul a:active {
@@ -217,7 +217,7 @@ header ul a:active {
 }
 
 strong {
-  color:#222;
+  color:#000;
   font-weight:700;
 }
 
